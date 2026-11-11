@@ -1,0 +1,471 @@
+{
+  "users": [
+    {
+      "id": "user_taimoor",
+      "name": "Taimoor Khan",
+      "username": "taimoorkhan",
+      "email": "taimoor@social.com",
+      "passwordHash": "$2b$10$bjeHTsr4lTkoI0tti5PfPeEXzuU50ZJUU9Z5YgXc17JToRTtGJR/u",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+      "coverPhoto": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80",
+      "bio": "Full Stack Website Developer & Founder of TAIMOOR SOCIAL 🚀 | Building modern web apps with passion.",
+      "work": "Full Stack Engineer & Tech Lead",
+      "education": "Computer Science, B.S.",
+      "location": "Dubai, UAE",
+      "relationshipStatus": "In a relationship",
+      "joinedDate": "January 2024",
+      "role": "admin",
+      "friendsCount": 4,
+      "followersCount": 1250
+    },
+    {
+      "id": "user_sarah",
+      "name": "Sarah Jenkins",
+      "username": "sarahj",
+      "email": "sarah@social.com",
+      "passwordHash": "$2b$10$bjeHTsr4lTkoI0tti5PfPeEXzuU50ZJUU9Z5YgXc17JToRTtGJR/u",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=400&q=80",
+      "coverPhoto": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+      "bio": "Product Designer & UI/UX Specialist 🎨 Passionate about clean interfaces and friendly communities.",
+      "work": "Lead Designer at CreativePulse",
+      "education": "Design Academy",
+      "location": "San Francisco, CA",
+      "relationshipStatus": "Single",
+      "joinedDate": "March 2024",
+      "role": "user",
+      "friendsCount": 3,
+      "followersCount": 890
+    },
+    {
+      "id": "user_alex",
+      "name": "Alex Rivera",
+      "username": "alexrivera",
+      "email": "alex@social.com",
+      "passwordHash": "$2b$10$bjeHTsr4lTkoI0tti5PfPeEXzuU50ZJUU9Z5YgXc17JToRTtGJR/u",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80",
+      "coverPhoto": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=1200&q=80",
+      "bio": "Travel photographer & cloud enthusiast 📸 Exploring mountain trails and high-frequency code.",
+      "work": "Cloud Solutions Architect",
+      "education": "University of Washington",
+      "location": "Seattle, WA",
+      "joinedDate": "April 2024",
+      "role": "user",
+      "friendsCount": 3,
+      "followersCount": 640
+    },
+    {
+      "id": "user_sophia",
+      "name": "Sophia Chen",
+      "username": "sophiac",
+      "email": "sophia@social.com",
+      "passwordHash": "$2b$10$bjeHTsr4lTkoI0tti5PfPeEXzuU50ZJUU9Z5YgXc17JToRTtGJR/u",
+      "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=400&q=80",
+      "coverPhoto": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1200&q=80",
+      "bio": "AI Researcher & Coffee addict ☕ Building the future with intelligent multi-agent systems.",
+      "work": "AI Research Scientist",
+      "education": "Stanford University",
+      "location": "Palo Alto, CA",
+      "joinedDate": "May 2024",
+      "role": "user",
+      "friendsCount": 2,
+      "followersCount": 1100
+    },
+    {
+      "id": "user_marcus",
+      "name": "Marcus Vance",
+      "username": "marcusv",
+      "email": "marcus@social.com",
+      "passwordHash": "$2b$10$bjeHTsr4lTkoI0tti5PfPeEXzuU50ZJUU9Z5YgXc17JToRTtGJR/u",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=400&q=80",
+      "coverPhoto": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=1200&q=80",
+      "bio": "Marathon runner & fitness coach 🏃‍♂️ No shortcuts, just hard work and positive energy.",
+      "work": "Head Trainer at Peak Athletics",
+      "education": "UCLA Kinesiology",
+      "location": "Los Angeles, CA",
+      "joinedDate": "June 2024",
+      "role": "user",
+      "friendsCount": 2,
+      "followersCount": 420
+    },
+    {
+      "id": "user_67bd0f42",
+      "name": "John Doe",
+      "username": "john",
+      "email": "john@example.com",
+      "passwordHash": "$2b$10$Um51FcAU8LLlu.JM4nx19.nPEYPU9X14yv.M.fpltpMHUkVat99yu",
+      "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=400&q=80",
+      "coverPhoto": "https://images.unsplash.com/photo-1579546929518-9e396f3cc809?auto=format&fit=crop&w=1200&q=80",
+      "bio": "Hello, I am on TAIMOOR SOCIAL!",
+      "work": "",
+      "education": "",
+      "location": "",
+      "gender": "Male",
+      "birthday": "Aug 20, 1999",
+      "joinedDate": "November 2026",
+      "role": "user",
+      "friendsCount": 0,
+      "followersCount": 0
+    }
+  ],
+  "posts": [
+    {
+      "id": "post_1",
+      "userId": "user_taimoor",
+      "userName": "Taimoor Khan",
+      "userAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+      "content": "🚀 Welcome to TAIMOOR SOCIAL! \"Connect • Share • Communicate\". Built with full-stack React, Express, real-time messaging, stories, and Facebook-inspired UI. What features would you like to see next? Drop a comment below! 👇✨ #TaimoorSocial #WebDev #FullStack",
+      "mediaUrl": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1200&q=80",
+      "mediaType": "image",
+      "privacy": "public",
+      "feeling": "excited",
+      "hashtags": [
+        "#TaimoorSocial",
+        "#WebDev",
+        "#FullStack"
+      ],
+      "createdAt": "2026-11-11T01:54:19.225Z",
+      "reactions": {
+        "user_sarah": "love",
+        "user_alex": "like",
+        "user_sophia": "wow",
+        "user_marcus": "like"
+      },
+      "commentsCount": 3,
+      "sharesCount": 5,
+      "comments": [
+        {
+          "id": "comm_1",
+          "postId": "post_1",
+          "userId": "user_sarah",
+          "userName": "Sarah Jenkins",
+          "userAvatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=400&q=80",
+          "content": "The UI is incredibly smooth Taimoor! Exactly like Facebook but super fast. Love the story viewer and reactions!",
+          "createdAt": "2026-11-11T02:24:19.225Z",
+          "likes": [
+            "user_taimoor",
+            "user_alex"
+          ],
+          "replies": [
+            {
+              "id": "reply_1",
+              "postId": "post_1",
+              "userId": "user_taimoor",
+              "userName": "Taimoor Khan",
+              "userAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+              "content": "Thank you Sarah! Clean user experience was the #1 goal.",
+              "createdAt": "2026-11-11T02:42:19.225Z",
+              "likes": [
+                "user_sarah"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "comm_2",
+          "postId": "post_1",
+          "userId": "user_alex",
+          "userName": "Alex Rivera",
+          "userAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80",
+          "content": "Messenger and group feed work seamlessly. Outstanding work!",
+          "createdAt": "2026-11-11T02:54:19.225Z",
+          "likes": [
+            "user_taimoor"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "post_2",
+      "userId": "user_sarah",
+      "userName": "Sarah Jenkins",
+      "userAvatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=400&q=80",
+      "content": "Morning coffee & creative design sprint. Testing out new typography scales and micro-interactions today. ☕🎨 #DesignSystem #UIUX",
+      "mediaUrl": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1200&q=80",
+      "mediaType": "image",
+      "privacy": "public",
+      "feeling": "creative",
+      "createdAt": "2026-11-10T22:54:19.225Z",
+      "reactions": {
+        "user_taimoor": "love",
+        "user_sophia": "care"
+      },
+      "commentsCount": 1,
+      "sharesCount": 1,
+      "comments": [
+        {
+          "id": "comm_3",
+          "postId": "post_2",
+          "userId": "user_sophia",
+          "userName": "Sophia Chen",
+          "userAvatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=400&q=80",
+          "content": "That setup looks pristine Sarah! 💻",
+          "createdAt": "2026-11-10T23:54:19.225Z",
+          "likes": [
+            "user_sarah"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "post_3",
+      "userId": "user_alex",
+      "userName": "Alex Rivera",
+      "userAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80",
+      "content": "Weekend backpacking in the North Cascades. Nothing beats the crisp mountain air and starry night skies. 🌲🏔️ #Nature #Hiking #Photography",
+      "mediaUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=1200&q=80",
+      "mediaType": "image",
+      "privacy": "public",
+      "feeling": "peaceful",
+      "createdAt": "2026-11-10T13:54:19.225Z",
+      "reactions": {
+        "user_taimoor": "wow",
+        "user_sarah": "love",
+        "user_marcus": "like"
+      },
+      "commentsCount": 1,
+      "sharesCount": 2,
+      "comments": [
+        {
+          "id": "comm_4",
+          "postId": "post_3",
+          "userId": "user_marcus",
+          "userName": "Marcus Vance",
+          "userAvatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=400&q=80",
+          "content": "Epic view man! Which trail is this?",
+          "createdAt": "2026-11-10T15:54:19.225Z",
+          "likes": [
+            "user_alex"
+          ]
+        }
+      ]
+    }
+  ],
+  "stories": [
+    {
+      "id": "story_1",
+      "userId": "user_taimoor",
+      "userName": "Taimoor Khan",
+      "userAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+      "mediaUrl": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=800&q=80",
+      "textContent": "Building late night features for TAIMOOR SOCIAL 💻⚡",
+      "createdAt": "2026-11-10T23:54:19.225Z",
+      "expiresAt": "2026-11-11T23:54:19.225Z",
+      "viewers": [
+        "user_sarah",
+        "user_alex"
+      ]
+    },
+    {
+      "id": "story_2",
+      "userId": "user_sarah",
+      "userName": "Sarah Jenkins",
+      "userAvatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=400&q=80",
+      "mediaUrl": "https://images.unsplash.com/photo-1501386761578-eac5c94b800a?auto=format&fit=crop&w=800&q=80",
+      "textContent": "Design meeting in downtown SF ☕",
+      "createdAt": "2026-11-10T21:54:19.225Z",
+      "expiresAt": "2026-11-11T21:54:19.225Z",
+      "viewers": [
+        "user_taimoor"
+      ]
+    },
+    {
+      "id": "story_3",
+      "userId": "user_alex",
+      "userName": "Alex Rivera",
+      "userAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80",
+      "mediaUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
+      "textContent": "Sunset hike at the ridge 🌅",
+      "createdAt": "2026-11-10T19:54:19.225Z",
+      "expiresAt": "2026-11-11T19:54:19.225Z",
+      "viewers": [
+        "user_taimoor",
+        "user_sarah",
+        "user_sophia"
+      ]
+    },
+    {
+      "id": "story_4",
+      "userId": "user_sophia",
+      "userName": "Sophia Chen",
+      "userAvatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=400&q=80",
+      "textContent": "New machine learning experiment finished with 98.4% accuracy! 🤖📈",
+      "backgroundGradient": "from-purple-600 via-pink-600 to-indigo-700",
+      "createdAt": "2026-11-10T17:54:19.225Z",
+      "expiresAt": "2026-11-11T17:54:19.225Z",
+      "viewers": [
+        "user_taimoor"
+      ]
+    }
+  ],
+  "friendRequests": [],
+  "friendships": [
+    {
+      "user1Id": "user_taimoor",
+      "user2Id": "user_sarah",
+      "createdAt": "2026-10-22T03:54:19.225Z"
+    },
+    {
+      "user1Id": "user_taimoor",
+      "user2Id": "user_alex",
+      "createdAt": "2026-10-27T03:54:19.225Z"
+    },
+    {
+      "user1Id": "user_taimoor",
+      "user2Id": "user_sophia",
+      "createdAt": "2026-11-01T03:54:19.225Z"
+    },
+    {
+      "user1Id": "user_taimoor",
+      "user2Id": "user_marcus",
+      "createdAt": "2026-11-06T03:54:19.225Z"
+    },
+    {
+      "user1Id": "user_sarah",
+      "user2Id": "user_alex",
+      "createdAt": "2026-10-30T03:54:19.225Z"
+    },
+    {
+      "user1Id": "user_sarah",
+      "user2Id": "user_sophia",
+      "createdAt": "2026-11-03T03:54:19.225Z"
+    }
+  ],
+  "savedPosts": [],
+  "messages": [
+    {
+      "id": "msg_1",
+      "conversationId": "conv_taimoor_sarah",
+      "senderId": "user_sarah",
+      "receiverId": "user_taimoor",
+      "content": "Hey Taimoor! The new TAIMOOR SOCIAL interface looks stunning!",
+      "createdAt": "2026-11-11T00:54:19.225Z",
+      "isRead": true
+    },
+    {
+      "id": "msg_2",
+      "conversationId": "conv_taimoor_sarah",
+      "senderId": "user_taimoor",
+      "receiverId": "user_sarah",
+      "content": "Thanks Sarah! Really appreciate your feedback on the layout.",
+      "createdAt": "2026-11-11T01:06:19.225Z",
+      "isRead": true
+    },
+    {
+      "id": "msg_3",
+      "conversationId": "conv_taimoor_sarah",
+      "senderId": "user_sarah",
+      "receiverId": "user_taimoor",
+      "content": "Are you working on the real-time messenger right now?",
+      "createdAt": "2026-11-11T01:54:19.225Z",
+      "isRead": false
+    },
+    {
+      "id": "msg_4",
+      "conversationId": "conv_taimoor_alex",
+      "senderId": "user_alex",
+      "receiverId": "user_taimoor",
+      "content": "Loved that team photo you shared earlier!",
+      "createdAt": "2026-11-10T21:54:19.225Z",
+      "isRead": true
+    }
+  ],
+  "notifications": [
+    {
+      "id": "notif_1",
+      "userId": "user_taimoor",
+      "fromUserId": "user_sarah",
+      "fromUserName": "Sarah Jenkins",
+      "fromUserAvatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=400&q=80",
+      "type": "reaction",
+      "postId": "post_1",
+      "content": "loved your post: \"Welcome to TAIMOOR SOCIAL!\"",
+      "isRead": false,
+      "createdAt": "2026-11-11T02:24:19.225Z"
+    },
+    {
+      "id": "notif_2",
+      "userId": "user_taimoor",
+      "fromUserId": "user_alex",
+      "fromUserName": "Alex Rivera",
+      "fromUserAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80",
+      "type": "comment",
+      "postId": "post_1",
+      "content": "commented: \"Messenger and group feed work seamlessly...\"",
+      "isRead": false,
+      "createdAt": "2026-11-11T02:54:19.225Z"
+    },
+    {
+      "id": "notif_3",
+      "userId": "user_taimoor",
+      "fromUserId": "user_sophia",
+      "fromUserName": "Sophia Chen",
+      "fromUserAvatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=400&q=80",
+      "type": "reaction",
+      "postId": "post_1",
+      "content": "reacted wow to your post",
+      "isRead": true,
+      "createdAt": "2026-11-11T01:54:19.225Z"
+    }
+  ],
+  "groups": [
+    {
+      "id": "group_1",
+      "name": "Full Stack Web Developers",
+      "description": "A thriving community of passionate coders sharing tips, tutorials, code reviews, and latest web tech.",
+      "coverImage": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
+      "avatarImage": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=300&q=80",
+      "privacy": "public",
+      "createdBy": "user_taimoor",
+      "adminIds": [
+        "user_taimoor"
+      ],
+      "memberIds": [
+        "user_taimoor",
+        "user_sarah",
+        "user_alex",
+        "user_sophia"
+      ],
+      "createdAt": "2026-10-12T03:54:19.225Z",
+      "postsCount": 142
+    },
+    {
+      "id": "group_2",
+      "name": "UI/UX & Modern Product Design",
+      "description": "Critiques, wireframes, design systems, and Figma tips for creators worldwide.",
+      "coverImage": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?auto=format&fit=crop&w=1200&q=80",
+      "avatarImage": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=300&q=80",
+      "privacy": "public",
+      "createdBy": "user_sarah",
+      "adminIds": [
+        "user_sarah"
+      ],
+      "memberIds": [
+        "user_taimoor",
+        "user_sarah",
+        "user_alex"
+      ],
+      "createdAt": "2026-10-17T03:54:19.225Z",
+      "postsCount": 88
+    },
+    {
+      "id": "group_3",
+      "name": "Global Photographers & Travelers",
+      "description": "Share your breathtaking landscapes, street photography, camera gear, and travel destinations.",
+      "coverImage": "https://images.unsplash.com/photo-1452421822248-d4c2b47f0c81?auto=format&fit=crop&w=1200&q=80",
+      "avatarImage": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=300&q=80",
+      "privacy": "public",
+      "createdBy": "user_alex",
+      "adminIds": [
+        "user_alex"
+      ],
+      "memberIds": [
+        "user_taimoor",
+        "user_alex",
+        "user_marcus"
+      ],
+      "createdAt": "2026-10-24T03:54:19.225Z",
+      "postsCount": 65
+    }
+  ],
+  "reports": []
+}

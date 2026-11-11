@@ -1,0 +1,6 @@
+{
+  "name": "TAIMOOR SOCIAL",
+  "description": "Connect • Share • Communicate. A complete, professional Facebook-style social networking platform with news feed, profiles, friends, stories, real-time messaging, groups, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
